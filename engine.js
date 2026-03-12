@@ -1,7 +1,7 @@
 
 // SETTINGS ////////////////////////////////////////////////////////
 var FILE = "game.tw";
-var VIDEO_PATH = "https://drive.google.com/file/d/";
+var VIDEO_PATH = "https://drive.google.com/uc?id=";
 
 //once you reach the end of the clip select the first choice (true)
 //if false disables the bar
