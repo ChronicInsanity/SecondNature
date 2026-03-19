@@ -16,7 +16,7 @@ color: white;
 /*colors here, layout below*/
 .passageLink, .inactiveLink {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
 .passageLink:hover, .passageLink.active {
@@ -28,7 +28,7 @@ color: white;
 }
 
 #barBackground {
-    background-color: white;
+    background-color: rgb(0, 0, 0);
 
 }
 
